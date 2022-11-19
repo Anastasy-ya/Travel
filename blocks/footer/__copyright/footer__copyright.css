@@ -1,0 +1,14 @@
+.footer__copyright {
+  color: white;
+  text-decoration: none;
+  font-family: inter, Arial;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.footer__copyright:hover {
+  transform: scale(1.04);
+}

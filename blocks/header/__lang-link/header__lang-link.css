@@ -1,0 +1,22 @@
+.header__lang-link {
+  color: white;
+  font-size: 24px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 28px;
+  margin-left: 18px;
+  font-family: inter, Arial;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+.header__lang-link:hover {
+  color: lightblue;
+}
+
+@media screen and (max-width: 450px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
