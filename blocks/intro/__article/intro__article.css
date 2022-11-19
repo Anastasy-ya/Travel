@@ -7,7 +7,7 @@
   max-width: 690px;
   font-style: normal;
   margin: 40px 0 35px;
-  font-family: inter, Arial;
+  font-family: "Inter", Arial;
 }
 
 @media screen and (max-width: 768px) {

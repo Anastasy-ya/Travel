@@ -7,9 +7,8 @@
   font-style: normal;
   font-weight: 900;
   margin: 0;
-  font-family: "Inter";
   text-rendering: optimizeLegibility;
-  font-family: inter, Arial;
+  font-family: "Inter", Arial;
 }
 
 @media screen and (max-width: 550px) {
