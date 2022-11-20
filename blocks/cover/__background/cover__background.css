@@ -1,6 +1,6 @@
 .cover__background {
   max-width: 1184px;
-  max-height: 740px;
+  min-height: 740px;
   display: flex;
   position: relative;
   justify-content: center;
@@ -10,15 +10,14 @@
   object-fit: cover;
   background-position: center;
   background-size: cover;
-
   top: 0;
   z-index: 1;
   transition: transform 0.3s ease-in-out;
 }
 
-.cover__background:hover {
+/*.cover__background:hover {
   transform: scale(1.04);
-}
+}*/
 
 @media screen and (max-width: 1024px) {
   .cover__background {

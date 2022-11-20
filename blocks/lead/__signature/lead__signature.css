@@ -7,7 +7,7 @@
   letter-spacing: 0.15em;
   font-weight: 400;
   font-style: normal;
-  font-family: "Inter", Arial;
+  font-family: "Inter", "Arial", "sans-serif";
 }
 
 @media screen and (max-width: 768px) {
