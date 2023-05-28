@@ -18,4 +18,4 @@
 * Оптимизация шрифтов
 * Медиазапросы
 
-https://anastasy-ya.github.io/russian-travel/
+https://anastasy-ya.github.io/travel/
